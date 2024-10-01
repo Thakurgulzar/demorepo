@@ -1,0 +1,32 @@
+Package: instabrute
+Insalled-Size: 25
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: vijay
+Description: A short description of mypackage
+Filename: dists/demo/main/binary-all/instabrute.deb
+Size: 1644
+MD5Sum: 5c5268a4689facf18f51bf0a12fe3518
+SHA1: f58d39537607e2802fd158fb460be3395118fcdc
+SHA256: b51bcd013384084f36821fb14639cd7ba51d856712c73b89667c6b4dc98ae85f
+SHA512: a3e1896878bd3a12dede66cfdd98d12603003058b5ea32e074edd1b5c0d8b8e2b0e8ccd1f9601a74dc2b51632578c7c1486f41c2426245d8db4a6a0a40f1f1a0
+
+Package: mypackage
+Insalled-Size: 25
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: vijay
+Description: A short description of mypackage
+Filename: dists/demo/main/binary-all/picinfo.deb
+Size: 1608
+MD5Sum: 730e8fc4f5bbaacd0114077a3414ceb9
+SHA1: 4491403cd25c5d941605bde7e20b162a98b8b80e
+SHA256: 62dd918f82cd9c54380e9d6ac301acfa9eda841c214bdc4af7253396890c8aef
+SHA512: 3c689bf143065ee9f08eb4f08dc93cbb9c267966fb606b57d4be13a7a8627ce90452351961e2fb5e89d1cdcf48e565c1cff8f41f2102fdce006ea0f767fc7329
+
