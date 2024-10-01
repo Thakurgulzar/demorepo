@@ -1,3 +1,19 @@
+Package: iginfo
+insalled-Size: 25
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: vijay
+Description: A short description of mypackage
+Filename: dists/demo/main/binary-all/iginfo.deb
+Size: 1324
+MD5Sum: bb9fcf084cb06b20d0f6e1209b48d0af
+SHA1: bd526c48d9f5f7875adec77d5038af0173fd354c
+SHA256: 8022ada9b16cda3bcdb446696517f085fbee3f3c0da5ee86cd5078788336b071
+SHA512: 2e28e47e80f6e78f20521d9d8fea733995208bc8400c383d02ba11b671e90943a6e8f8bcf6ecc2eb9182a4ae8fc0377f8c663151664799571a71762c22b2f44b
+
 Package: instabrute
 Insalled-Size: 25
 Version: 1.0
