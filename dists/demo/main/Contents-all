@@ -1,4 +1,6 @@
 data/data/com.termux/files/usr/bin/iginfo                                        iginfo
+data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot
 data/data/com.termux/files/usr/bin/instabrute                                    instabrute
+data/data/com.termux/files/usr/bin/payload                                       payload
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo
 data/data/com.termux/files/usr/bin/picinfo                                       mypackage

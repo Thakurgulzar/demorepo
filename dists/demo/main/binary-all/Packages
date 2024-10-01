@@ -14,6 +14,22 @@ SHA1: bd526c48d9f5f7875adec77d5038af0173fd354c
 SHA256: 8022ada9b16cda3bcdb446696517f085fbee3f3c0da5ee86cd5078788336b071
 SHA512: 2e28e47e80f6e78f20521d9d8fea733995208bc8400c383d02ba11b671e90943a6e8f8bcf6ecc2eb9182a4ae8fc0377f8c663151664799571a71762c22b2f44b
 
+Package: iginfobot
+Insalled-Size: 25
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: vijay
+Description: A short description of mypackage
+Filename: dists/demo/main/binary-all/iginfobot.deb
+Size: 2252
+MD5Sum: eef8053ef471b52f12879c442571e861
+SHA1: 578835a4f82a8ac0d36718ecfef87ac2deb300f5
+SHA256: 2b55752a65f0cab503c455319d15ff2fa902933f0eb91d4220b39219205e2fd1
+SHA512: 21fc69c32ae9c017fadcaf8b2f79065132f018e327a45d1fe5b924833337e1014729b5eaa1a4c84b0d2392395f2dbb27d0cd5ae387b4d86cea31ec4d78f1b3a9
+
 Package: instabrute
 Insalled-Size: 25
 Version: 1.0
@@ -29,6 +45,22 @@ MD5Sum: 5c5268a4689facf18f51bf0a12fe3518
 SHA1: f58d39537607e2802fd158fb460be3395118fcdc
 SHA256: b51bcd013384084f36821fb14639cd7ba51d856712c73b89667c6b4dc98ae85f
 SHA512: a3e1896878bd3a12dede66cfdd98d12603003058b5ea32e074edd1b5c0d8b8e2b0e8ccd1f9601a74dc2b51632578c7c1486f41c2426245d8db4a6a0a40f1f1a0
+
+Package: payload
+Insalled-Size: 25
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: vijay
+Description: A short description of mypackage
+Filename: dists/demo/main/binary-all/payload.deb
+Size: 1136
+MD5Sum: 20e8b32bea4f9b53ba1aa504b27b3802
+SHA1: 2f84561b0b9a2ecb10de812f7374f2d987a89f45
+SHA256: 60b8b00a88b3e60c8ebb54ed72d1325e64ba74300ae097766f8ed3321a20196c
+SHA512: 9054bdcf54583d38e4ff37530ad407a29525dcc7cbe0e6ec71c7d48030281f83712d2bf2e179e93b87393fab6e73711e5cbe3141d510db3bd80ded6a1bec6caf
 
 Package: phoneinfo
 Insalled-Size: 25
