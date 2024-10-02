@@ -1,3 +1,19 @@
+Package: alien
+Insalled-Size: 25
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no         
+Maintainer: vijay
+Description: A short description of mypackage
+Filename: dists/demo/main/binary-all/alien.deb
+Size: 1436
+MD5Sum: 9386d9aaf7fbbc6acce3a12dec7ecc69
+SHA1: b047be7faa84251de1c5499ba8bd0d80647c469a
+SHA256: 68c95170dcb2ee8efcc9e9ec57ab6e98a043340645a5788894b1c79b2c05e66d
+SHA512: eaa34f75adcc191755c7d6b8dd2aa31e430fbb609d3a5389329f8af806781574bbb42827fd5c3433931fe598fe4381ecb06eb1eae3e55b15c840a5b8947aec33
+
 Package: iginfo
 insalled-Size: 25
 Version: 1.0
